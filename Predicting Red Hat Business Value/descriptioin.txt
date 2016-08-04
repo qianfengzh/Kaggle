@@ -1,0 +1,7 @@
+Classifying customer potential
+
+According for customer behavioral,predict which they should approch,and even when and how to approach them.
+Note: Customer behaviroal, Which, When, How
+
+Data:
+	people.csv¡¢act_train.csv¡¢act_test.csv
